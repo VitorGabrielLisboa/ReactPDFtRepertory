@@ -1,0 +1,25 @@
+.page {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  width: 100%;
+}
+
+.main {
+  position: relative;
+  flex: 1;
+  background: #cecece;
+  overflow-y: auto;
+  color: #222;
+
+  .content {
+    flex: 1;
+    padding: 20px;
+  }
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 1.5rem;
+}
