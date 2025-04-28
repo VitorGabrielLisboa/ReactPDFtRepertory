@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactPDFtRepertory/static/css/main.e4e5eb4f.css",
+    "main.js": "/ReactPDFtRepertory/static/js/main.8721f321.js",
+    "index.html": "/ReactPDFtRepertory/index.html",
+    "main.e4e5eb4f.css.map": "/ReactPDFtRepertory/static/css/main.e4e5eb4f.css.map",
+    "main.8721f321.js.map": "/ReactPDFtRepertory/static/js/main.8721f321.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4e5eb4f.css",
+    "static/js/main.8721f321.js"
+  ]
+}
