@@ -2,7 +2,7 @@ export const projectsData = [
   {
     id: 1,
     title: "Grandes Mestres do Estoicismo",
-    file: process.env.PUBLIC_URL + "/pdfs/projetoX.pdf",
+    file: process.env.PUBLIC_URL + "/pdfs/SerEstoico.pdf",
   },
   {
     id: 2,
